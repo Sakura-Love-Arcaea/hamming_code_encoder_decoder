@@ -1,0 +1,3 @@
+# hamming_code_encoder_decoder
+最近看了硬件茶談說ECC自動糾錯內存，看到了那個漢明碼，然後呢我在excel做了個漢明碼編碼器還有解碼器
+耶！
